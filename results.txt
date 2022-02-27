@@ -1,0 +1,20 @@
+updated parameters
+For no competitive part--
+
+batch size = 32
+learning rate = 0.1
+loss function = cross entropy
+hidden size= 20
+embeding size = 10
+
+The loss started from -8.9177
+
+at 285th batch 
+Loss is at - 5.3206
+
+after 5:07:52 hh:mm:ss
+at 1500th batch
+Loss is at - 3.5720
+
+even after 1:21:43 more hrs of training
+Loss is still at around 3.2960
